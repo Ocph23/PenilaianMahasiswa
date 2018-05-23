@@ -55,11 +55,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DataAccess\Models\dosen.cs" />
+    <Compile Include="DataAccess\Models\Idosen.cs" />
+    <Compile Include="DataAccess\Models\Ikelas.cs" />
+    <Compile Include="DataAccess\Models\Ikontrak.cs" />
+    <Compile Include="DataAccess\Models\Imahasiswa.cs" />
+    <Compile Include="DataAccess\Models\Imatakuliah.cs" />
+    <Compile Include="DataAccess\Models\Inilai.cs" />
+    <Compile Include="DataAccess\Models\Ipesertakuliah.cs" />
+    <Compile Include="DataAccess\Models\Itahunajaran.cs" />
+    <Compile Include="DataAccess\Models\kelas.cs" />
+    <Compile Include="DataAccess\Models\kontrak.cs" />
+    <Compile Include="DataAccess\Models\mahasiswa.cs" />
+    <Compile Include="DataAccess\Models\matakuliah.cs" />
+    <Compile Include="DataAccess\Models\nilai.cs" />
+    <Compile Include="DataAccess\Models\pesertakuliah.cs" />
+    <Compile Include="DataAccess\Models\tahunajaran.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DataAccess\Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
